@@ -1,3 +1,15 @@
+if ur here ur kinda weird
+
+probably should go away
+
+
+this is just for me to vibe and ignore actual issues 
+
+
+bandaid fixes ftw bois 
+
+===
+
 Eris [![NPM version](https://img.shields.io/npm/v/eris.svg?style=flat-square)](https://npmjs.com/package/eris)
 ====
 
